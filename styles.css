@@ -1,0 +1,49 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(243, 233, 255);
+}
+
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+h2{
+    text-align: center;
+    color:rgb(135, 50, 204);
+}
+
+#attributes{
+    background-color: rgb(152, 106, 194);
+}
+
+table{
+    border: 1px solid;
+    align-self: center; 
+    border-color: blueviolet;
+    border-collapse: collapse;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;  
+}
+
+
+td, th{
+    border-bottom: 1px solid;
+    padding: 5px;
+
+}
+
+th{
+    background-color: rgb(159, 100, 214);
+}
+
+tr{
+    border-color: rgb(243, 233, 255);
+    border: 1px solid;
+}
+
+.code{
+    background-color: white;
+}
